@@ -1,0 +1,4589 @@
+95
+TAOBBC
+6
+swap 0 3
+rotate 2
+rotate -10
+reverse 1 3
+move 1 4
+move 3 1
+BOBCAT
+5
+move 1 3
+move 4 1
+reverse 1 3
+rotate 26
+swap 0 3
+BDGJOOO
+6
+reverse 0 6
+reverse 3 6
+swap 6 5
+move 3 5
+rotate -36
+move 1 5
+GOODJOB
+6
+move 5 1
+rotate 36
+move 5 3
+swap 6 5
+reverse 3 6
+reverse 0 6
+NOCHANGE
+14
+swap 0 0
+swap 1 1
+swap 2 2
+reverse 1 1
+reverse 0 0
+reverse 4 4
+rotate 64
+rotate -800
+move 2 2
+move 4 4
+move 7 7
+move 0 0
+move 1 1
+move 6 6
+XKGWP
+10
+reverse 0 1
+reverse 4 4
+move 0 0
+swap 4 3
+reverse 0 4
+swap 3 2
+rotate -121
+move 0 2
+swap 2 0
+reverse 0 0
+NWMHVVGHWBYQQRNHJWKOQYTWZOMGSCHB
+94
+rotate 142
+move 9 12
+move 14 3
+rotate -9
+rotate 807
+swap 0 24
+swap 6 29
+swap 4 31
+rotate 246
+move 12 12
+move 22 18
+swap 26 19
+reverse 2 11
+move 4 0
+rotate -417
+swap 19 8
+reverse 20 27
+swap 24 17
+move 13 30
+swap 10 29
+rotate -98
+move 14 15
+move 2 26
+swap 7 24
+move 17 26
+move 13 18
+reverse 23 31
+rotate -630
+rotate -887
+rotate -422
+rotate -298
+reverse 5 11
+rotate 434
+reverse 22 24
+reverse 18 20
+reverse 8 27
+move 31 23
+swap 28 20
+move 24 3
+swap 9 31
+swap 30 10
+rotate -203
+rotate -713
+move 28 22
+swap 18 16
+reverse 6 17
+move 27 24
+reverse 5 25
+rotate -533
+swap 25 27
+move 21 12
+move 9 16
+swap 9 23
+rotate 457
+move 18 17
+reverse 10 15
+move 8 8
+swap 16 10
+swap 22 11
+rotate -421
+swap 13 16
+reverse 23 27
+move 20 27
+reverse 5 12
+move 26 4
+reverse 0 1
+reverse 14 14
+reverse 23 29
+move 18 16
+reverse 17 20
+move 23 17
+move 22 29
+move 23 31
+swap 5 16
+rotate 393
+swap 2 11
+rotate 764
+rotate 611
+rotate 990
+swap 22 11
+rotate -28
+swap 18 31
+reverse 4 6
+move 8 7
+swap 28 16
+reverse 5 19
+move 22 21
+swap 16 19
+move 2 24
+swap 5 19
+swap 16 8
+reverse 12 13
+swap 11 0
+reverse 18 21
+WJHGJMWIJBY
+40
+move 9 6
+swap 2 5
+swap 8 7
+swap 9 8
+move 1 10
+rotate -424
+move 6 0
+reverse 2 3
+move 9 10
+rotate 214
+move 5 9
+rotate 429
+reverse 5 10
+move 6 3
+move 2 7
+reverse 2 3
+reverse 2 7
+move 8 3
+rotate -926
+reverse 1 8
+swap 7 5
+rotate -707
+rotate 175
+swap 2 1
+move 4 7
+rotate -544
+move 3 6
+reverse 0 1
+move 4 5
+rotate -428
+swap 7 3
+reverse 5 6
+move 6 8
+move 5 10
+reverse 4 4
+reverse 3 8
+swap 4 7
+move 8 10
+swap 2 6
+swap 3 1
+RUCOPYIAD
+92
+swap 7 2
+rotate 58
+reverse 3 5
+swap 8 0
+move 2 4
+reverse 0 0
+reverse 4 5
+move 2 1
+rotate -201
+move 0 7
+rotate 981
+move 1 3
+rotate -909
+rotate -473
+rotate -584
+reverse 1 1
+rotate -437
+swap 2 6
+swap 5 3
+rotate -391
+reverse 2 5
+move 3 1
+reverse 7 8
+reverse 0 3
+reverse 0 0
+reverse 4 5
+swap 3 3
+rotate 777
+reverse 6 7
+rotate -331
+swap 2 2
+swap 4 2
+move 3 0
+swap 8 0
+move 6 1
+reverse 4 5
+swap 1 8
+reverse 1 5
+rotate 285
+swap 6 2
+reverse 4 8
+swap 5 5
+move 4 1
+reverse 0 0
+swap 6 0
+rotate 979
+reverse 4 6
+rotate -876
+swap 3 4
+swap 0 3
+move 4 5
+reverse 4 6
+move 2 8
+rotate 801
+rotate 173
+rotate 798
+swap 1 3
+swap 4 2
+rotate 210
+move 7 3
+rotate -894
+reverse 5 7
+swap 0 3
+rotate -773
+reverse 1 6
+reverse 4 7
+rotate -295
+swap 5 8
+rotate -193
+reverse 1 7
+rotate -528
+reverse 3 6
+reverse 7 7
+reverse 1 4
+swap 3 3
+rotate 908
+rotate 28
+swap 5 0
+swap 5 2
+reverse 1 1
+swap 1 2
+reverse 0 7
+rotate 821
+reverse 2 4
+rotate 752
+rotate -340
+swap 5 7
+move 1 2
+move 5 8
+reverse 0 0
+rotate -108
+rotate -480
+JLFUTBNVNBOSDYPYDQFOWDFLCNEROTQVUBZQAEPHUDWJEMXGFHVYCTOORQBXNWXZDVAUTION
+31
+reverse 5 6
+reverse 27 30
+reverse 12 18
+move 39 26
+rotate -940
+rotate 78
+rotate -199
+swap 15 34
+reverse 18 25
+move 30 44
+swap 51 1
+rotate -856
+reverse 35 59
+swap 64 27
+swap 65 54
+rotate -674
+move 40 28
+reverse 18 53
+move 15 60
+rotate -59
+reverse 8 12
+rotate -505
+rotate -134
+swap 57 28
+move 71 3
+swap 45 56
+move 63 61
+move 4 9
+move 55 62
+rotate 148
+move 70 47
+KWNBBZAPVWALJUYVPELHXZVNPDJBFJGWXGAWUZNMLACVNISGPAWEKICTGHBEGBEUDHIHYAGBEUKOZRHMXOSRPVJXVHTYDK
+68
+reverse 11 12
+move 77 22
+reverse 5 89
+reverse 59 70
+reverse 27 43
+rotate 434
+move 12 65
+swap 67 14
+move 14 86
+swap 23 41
+reverse 26 67
+move 36 79
+swap 53 5
+reverse 68 89
+move 75 2
+swap 81 40
+move 39 66
+rotate 0
+swap 11 22
+reverse 44 80
+reverse 23 40
+move 93 41
+reverse 27 43
+rotate 436
+reverse 34 45
+reverse 30 41
+reverse 22 34
+swap 45 0
+reverse 11 60
+move 50 26
+swap 34 11
+swap 24 48
+rotate 931
+rotate 117
+rotate -171
+reverse 44 77
+reverse 46 54
+reverse 64 91
+swap 26 57
+move 88 74
+rotate -932
+rotate 109
+move 84 77
+rotate -92
+reverse 2 65
+swap 64 16
+reverse 16 38
+swap 39 82
+rotate 475
+reverse 21 72
+rotate 123
+swap 17 27
+reverse 17 53
+move 54 90
+swap 54 58
+swap 25 26
+rotate 111
+rotate -599
+move 64 30
+move 15 39
+reverse 28 34
+reverse 59 82
+move 82 51
+move 70 29
+move 54 77
+rotate 400
+rotate 961
+swap 87 10
+FTIMNYTCJQKNOHGCMQEPSCPSAGOTZCSIYVRTQJPTUSXXGBBPADQJXQXVXPAIUUITPREDUVIYBQKPGRHNCNBCQPF
+86
+rotate 134
+reverse 10 19
+swap 32 71
+move 7 9
+swap 26 13
+rotate 618
+rotate -447
+move 55 8
+rotate 45
+reverse 14 38
+reverse 48 50
+swap 38 82
+swap 53 71
+rotate 983
+move 0 24
+reverse 22 64
+move 68 64
+rotate 700
+reverse 29 71
+swap 85 81
+reverse 12 24
+move 71 63
+move 76 79
+move 45 32
+swap 22 16
+swap 53 49
+swap 51 68
+rotate 180
+rotate 183
+swap 48 64
+rotate 303
+move 86 34
+move 44 48
+rotate 13
+move 48 36
+move 63 14
+swap 26 81
+move 17 18
+reverse 6 51
+rotate -756
+swap 63 73
+move 66 45
+reverse 22 27
+reverse 34 81
+swap 48 4
+swap 43 20
+move 77 69
+reverse 2 48
+swap 31 72
+rotate -302
+swap 39 80
+reverse 5 60
+move 43 38
+move 72 78
+rotate 964
+move 27 42
+swap 15 42
+rotate -445
+move 30 29
+move 20 80
+move 54 1
+reverse 53 83
+reverse 39 71
+reverse 14 58
+move 34 71
+move 71 55
+reverse 44 85
+rotate 164
+swap 39 44
+swap 32 42
+reverse 9 47
+rotate -545
+swap 0 82
+rotate -707
+swap 69 43
+move 31 14
+reverse 15 75
+rotate 398
+rotate 370
+swap 39 17
+move 0 45
+rotate -367
+swap 75 79
+reverse 19 62
+move 1 59
+reverse 12 66
+QDZCKVGUNAONDNNYYIJWUKWTMHDXUKWHDKXBPCUMGNZRUXGDCXPLOGPDXRCXD
+39
+move 0 52
+reverse 7 20
+reverse 1 30
+rotate 784
+move 18 51
+rotate -230
+rotate -350
+move 17 5
+rotate -155
+swap 49 23
+swap 14 16
+reverse 27 41
+rotate -723
+rotate 410
+swap 20 26
+move 23 52
+reverse 39 57
+reverse 5 54
+rotate -225
+reverse 3 17
+reverse 21 54
+reverse 25 47
+move 44 23
+reverse 47 54
+swap 12 59
+move 33 23
+rotate 106
+reverse 2 16
+rotate 269
+swap 4 4
+rotate 632
+rotate -963
+rotate 951
+rotate 0
+swap 34 19
+reverse 9 30
+move 0 37
+rotate 373
+move 11 46
+ZPKAKXZXJRKMIQIPRRNKHVLQMPQKIELYWZYJAWDIJMWJZFJXIYLRM
+13
+move 22 9
+swap 41 34
+swap 32 47
+move 13 36
+rotate -634
+move 42 8
+reverse 14 28
+swap 19 17
+swap 44 27
+move 42 40
+rotate -469
+reverse 15 32
+rotate 339
+BP
+74
+move 0 0
+move 0 0
+swap 1 0
+swap 1 1
+reverse 1 1
+swap 0 1
+move 1 0
+swap 1 1
+swap 0 1
+swap 1 1
+swap 1 0
+move 1 0
+move 1 1
+move 0 0
+reverse 0 0
+move 0 0
+swap 1 1
+rotate -476
+rotate 810
+move 1 1
+move 0 1
+swap 0 1
+swap 1 0
+swap 1 1
+reverse 0 1
+swap 1 1
+swap 0 0
+rotate 151
+swap 1 1
+swap 0 1
+swap 0 0
+move 0 0
+reverse 0 1
+move 0 1
+move 1 1
+reverse 1 1
+reverse 0 0
+swap 0 1
+move 0 0
+swap 0 0
+move 1 1
+swap 0 1
+move 1 1
+move 0 1
+move 0 1
+swap 1 0
+swap 0 1
+rotate -418
+rotate -825
+rotate 828
+move 0 1
+rotate -309
+move 1 0
+move 1 1
+swap 0 1
+swap 0 0
+reverse 0 0
+move 1 0
+swap 0 0
+move 1 0
+rotate -101
+reverse 0 1
+rotate 644
+move 0 0
+move 1 1
+move 1 1
+rotate 395
+rotate -261
+move 1 0
+rotate 265
+swap 1 0
+swap 0 1
+rotate -724
+swap 1 0
+LRUXLHZIMERKPCKAQTYYZNAUDBORROWWHUEIJHEDFRFFXNNHDFRNWJWOSUGJGYADUDEJVWTPCIZASYYB
+26
+rotate 775
+reverse 30 40
+swap 56 46
+swap 59 77
+swap 3 66
+rotate 337
+rotate -108
+reverse 15 42
+move 67 53
+swap 13 53
+move 29 20
+reverse 31 41
+swap 19 5
+move 47 42
+reverse 51 54
+move 31 27
+move 66 22
+swap 7 12
+reverse 40 56
+move 58 7
+rotate 430
+move 52 53
+move 37 75
+reverse 7 39
+reverse 35 42
+swap 15 62
+IPLXHVMYUBNKZNBWBEMACSQUJGAXORISNECBZXB
+45
+reverse 10 27
+swap 30 8
+swap 37 17
+move 15 29
+reverse 4 27
+reverse 12 26
+reverse 16 20
+reverse 0 18
+rotate -514
+reverse 16 32
+move 8 34
+move 38 36
+reverse 27 35
+reverse 35 35
+move 4 23
+rotate 438
+move 18 18
+reverse 29 30
+move 31 13
+rotate 412
+reverse 17 33
+rotate -622
+move 26 6
+move 4 0
+move 2 1
+move 21 19
+rotate -756
+swap 26 14
+rotate -121
+rotate 652
+move 13 19
+swap 11 38
+move 7 32
+move 36 21
+move 31 4
+reverse 20 36
+move 13 24
+rotate -501
+reverse 25 32
+move 21 31
+swap 37 36
+swap 27 38
+reverse 6 29
+rotate 193
+swap 4 29
+SNAQGSLFSZTCKARHNAHQKIGCDWAPWRRVIZBUCF
+72
+swap 31 28
+reverse 18 28
+rotate -436
+swap 33 20
+move 1 32
+reverse 26 35
+move 5 11
+rotate 734
+move 13 26
+reverse 14 30
+move 31 26
+rotate 75
+rotate 998
+move 12 3
+rotate -900
+rotate -594
+rotate -680
+move 13 1
+reverse 13 23
+swap 34 6
+rotate 528
+move 23 20
+rotate -938
+move 22 3
+rotate 726
+reverse 3 35
+reverse 22 25
+swap 37 29
+swap 2 23
+swap 34 17
+reverse 10 18
+swap 24 31
+swap 16 2
+swap 31 26
+swap 13 32
+reverse 18 34
+rotate 450
+rotate -254
+move 11 26
+rotate 974
+swap 9 9
+move 13 29
+rotate 117
+rotate -625
+reverse 17 37
+reverse 27 30
+rotate 771
+swap 14 10
+rotate -126
+reverse 13 17
+swap 1 10
+reverse 15 22
+move 11 28
+reverse 8 36
+move 35 27
+rotate -957
+rotate 792
+swap 23 2
+move 37 20
+reverse 11 34
+move 22 33
+swap 35 16
+move 19 26
+swap 12 29
+rotate 531
+rotate 19
+rotate 112
+reverse 21 28
+rotate -504
+rotate 738
+swap 31 15
+swap 24 22
+PACLXPMVONZPUXEEIRPFJVNQEOECIRJXZZDKZSAURPSO
+94
+rotate 55
+move 32 9
+rotate 568
+rotate -903
+rotate 121
+swap 39 7
+move 29 17
+reverse 11 40
+reverse 30 36
+swap 37 24
+rotate -538
+swap 15 27
+swap 21 32
+rotate -799
+swap 31 42
+rotate 438
+swap 24 39
+move 20 13
+rotate 943
+swap 3 35
+swap 29 12
+move 39 42
+rotate -422
+reverse 0 39
+reverse 0 24
+reverse 17 40
+swap 25 24
+swap 21 39
+rotate 423
+rotate 35
+rotate 714
+rotate 226
+swap 6 4
+reverse 25 31
+swap 14 25
+move 0 26
+reverse 7 38
+reverse 27 40
+rotate 801
+swap 24 5
+move 41 19
+swap 8 2
+move 19 20
+rotate -147
+reverse 0 27
+rotate -898
+rotate 764
+rotate 893
+swap 23 38
+move 18 38
+reverse 29 43
+swap 8 19
+move 9 31
+rotate -967
+swap 34 5
+reverse 40 42
+rotate 523
+rotate -691
+reverse 12 23
+reverse 3 39
+reverse 30 34
+swap 25 29
+reverse 15 35
+reverse 8 30
+rotate -861
+rotate 781
+reverse 26 38
+swap 39 28
+rotate 65
+swap 4 35
+move 8 7
+swap 43 40
+swap 0 10
+reverse 9 43
+swap 17 9
+reverse 41 41
+move 25 35
+swap 1 5
+reverse 24 27
+reverse 6 9
+rotate 846
+rotate 636
+move 43 33
+move 8 12
+swap 40 6
+reverse 29 33
+reverse 16 41
+swap 26 11
+move 17 4
+reverse 0 3
+swap 12 42
+swap 37 25
+reverse 40 41
+rotate 231
+QJGAEMTJRJVYEFOKMBMIBFHBNCSLVZDQKRRZPHQXCWFQX
+39
+reverse 19 41
+reverse 4 17
+rotate -813
+rotate -866
+move 22 17
+swap 21 18
+rotate -808
+reverse 0 13
+rotate 986
+rotate 973
+reverse 6 15
+swap 21 8
+reverse 37 40
+swap 22 36
+reverse 24 38
+swap 8 24
+swap 15 19
+swap 17 33
+swap 25 9
+swap 29 14
+rotate -901
+reverse 22 24
+reverse 4 22
+move 12 37
+move 32 27
+rotate 926
+reverse 15 16
+swap 34 16
+move 23 3
+rotate 656
+reverse 14 25
+rotate 719
+rotate 110
+move 29 2
+swap 6 21
+reverse 15 31
+rotate 472
+swap 31 43
+swap 27 40
+QOKYBOXFGZVAJW
+18
+reverse 2 5
+rotate -359
+rotate -972
+swap 10 4
+move 5 1
+swap 2 13
+swap 0 4
+swap 4 0
+reverse 5 10
+move 6 6
+swap 3 7
+rotate 947
+move 10 5
+reverse 0 10
+swap 6 8
+move 7 4
+reverse 5 7
+rotate -677
+JZWVJELTXUMCTJXHPTWUEIJVWDVQTLZCPADKLRKSHUIUKHPSOQCGBSKLBFWCIOCNNZVGNYFADYFNEHVNVPGNNXLVOCY
+91
+move 49 70
+reverse 18 74
+swap 17 70
+rotate 836
+move 88 81
+swap 29 27
+swap 45 50
+rotate -734
+move 30 76
+rotate 769
+swap 50 63
+swap 60 86
+reverse 34 76
+rotate -489
+rotate 798
+swap 67 11
+move 46 62
+reverse 0 11
+move 10 29
+rotate 280
+move 35 64
+rotate -158
+reverse 10 66
+reverse 57 85
+rotate 206
+reverse 6 56
+swap 52 31
+move 77 67
+rotate 330
+swap 79 20
+reverse 1 7
+rotate -387
+rotate -74
+move 25 82
+reverse 8 40
+move 59 30
+swap 15 39
+swap 88 62
+rotate -407
+rotate 154
+move 34 84
+swap 79 51
+rotate 311
+swap 40 3
+swap 67 34
+swap 53 46
+rotate 516
+swap 48 71
+reverse 74 84
+rotate -30
+rotate -235
+move 79 42
+swap 54 64
+reverse 42 57
+move 33 8
+reverse 75 82
+reverse 3 75
+reverse 7 12
+swap 29 39
+swap 48 19
+move 90 28
+rotate -49
+move 24 84
+move 11 62
+swap 89 58
+swap 13 78
+swap 66 11
+rotate 725
+swap 65 20
+move 64 56
+move 8 43
+move 24 86
+reverse 9 24
+swap 54 44
+move 3 78
+swap 15 65
+move 25 30
+swap 11 13
+move 57 79
+reverse 6 68
+reverse 8 46
+reverse 56 70
+move 77 32
+move 81 30
+move 29 60
+reverse 44 44
+move 53 72
+rotate -517
+move 88 2
+rotate -540
+swap 15 50
+RFVXDUEHRJWJYZJLUVCFNVXJQUVNHIIVYECLKTEITQRISVUIUNLKXHKYQA
+57
+swap 46 50
+move 9 9
+reverse 13 40
+rotate 554
+rotate 175
+rotate 576
+swap 23 10
+swap 47 16
+rotate -935
+swap 16 28
+reverse 8 32
+swap 21 0
+rotate 603
+swap 28 43
+rotate 750
+swap 30 25
+swap 26 27
+swap 48 2
+swap 26 35
+move 50 56
+move 56 0
+move 44 49
+swap 26 34
+reverse 25 34
+move 56 12
+rotate 876
+swap 45 55
+rotate 566
+rotate -905
+reverse 3 9
+rotate -509
+move 9 6
+reverse 33 53
+swap 35 52
+reverse 5 13
+swap 18 2
+rotate -258
+rotate -447
+rotate -749
+reverse 39 45
+move 50 20
+swap 19 34
+move 14 31
+rotate -614
+rotate -917
+rotate -542
+swap 9 40
+move 15 24
+reverse 7 26
+swap 14 42
+swap 22 12
+rotate -358
+move 29 45
+reverse 23 49
+swap 54 7
+move 3 53
+reverse 6 54
+YVNQDLESHCNLRR
+24
+rotate 943
+swap 5 5
+move 1 0
+rotate 684
+rotate -898
+rotate -692
+move 7 11
+swap 0 7
+rotate 873
+rotate -173
+rotate 847
+swap 6 6
+rotate 323
+reverse 9 11
+swap 9 10
+reverse 2 8
+rotate 519
+swap 7 3
+reverse 4 10
+move 10 8
+move 12 4
+move 0 10
+swap 9 12
+move 10 6
+HCWTUMQAXFVHUESGOKHJRGXRWVUYDOYVZCNUMGNJUZPWTPZOMKSIYJYCIUYHYCJUCZU
+61
+reverse 21 47
+swap 60 55
+move 2 44
+rotate -282
+reverse 38 39
+swap 6 61
+reverse 57 65
+rotate -818
+reverse 12 61
+reverse 27 58
+reverse 28 66
+swap 14 57
+rotate -269
+reverse 4 66
+move 22 59
+rotate 501
+rotate 294
+swap 53 53
+swap 38 13
+rotate 109
+move 23 35
+move 24 53
+move 4 44
+rotate 564
+reverse 47 56
+swap 55 24
+reverse 11 55
+reverse 47 61
+swap 32 11
+rotate 946
+rotate 85
+reverse 27 54
+reverse 9 48
+rotate 616
+swap 66 59
+swap 6 60
+rotate 829
+move 3 20
+rotate -613
+swap 42 33
+rotate -616
+rotate -696
+swap 37 3
+move 30 28
+swap 37 59
+move 13 18
+swap 49 64
+reverse 60 63
+rotate -908
+move 23 58
+rotate -703
+swap 62 47
+swap 32 2
+move 8 27
+rotate 836
+reverse 7 52
+move 14 29
+reverse 13 46
+swap 10 37
+rotate 219
+move 62 60
+GBDREDFERZRIANN
+80
+move 14 14
+rotate -332
+swap 8 8
+move 0 4
+swap 12 9
+rotate 337
+rotate 687
+move 0 6
+move 1 2
+move 3 3
+swap 13 8
+reverse 7 8
+reverse 4 12
+move 14 0
+reverse 5 8
+reverse 2 11
+move 13 7
+reverse 4 8
+rotate -85
+swap 2 0
+move 8 6
+swap 0 11
+move 13 13
+rotate 996
+move 13 4
+reverse 0 1
+reverse 2 4
+swap 5 11
+swap 10 7
+rotate 406
+rotate -233
+rotate -321
+rotate -413
+swap 8 6
+swap 1 12
+swap 4 12
+move 14 8
+move 7 13
+swap 6 11
+reverse 12 14
+move 4 4
+rotate -975
+rotate 755
+reverse 3 12
+reverse 7 9
+reverse 3 10
+rotate 196
+swap 7 5
+reverse 5 13
+move 6 3
+rotate -197
+swap 11 12
+reverse 13 14
+rotate -656
+rotate -618
+swap 3 2
+rotate 497
+swap 12 0
+swap 10 5
+move 5 8
+swap 13 12
+move 10 8
+rotate 409
+move 5 4
+rotate -662
+move 14 9
+move 6 1
+rotate -97
+reverse 2 11
+swap 2 5
+reverse 0 10
+rotate -912
+rotate -705
+swap 3 2
+reverse 7 14
+rotate -119
+move 9 3
+rotate 295
+swap 5 3
+rotate 865
+VNYGWBATWLRVBAOXBURC
+82
+reverse 6 9
+move 5 13
+move 17 6
+reverse 2 9
+move 13 19
+move 3 19
+reverse 15 16
+rotate -711
+swap 1 3
+rotate 118
+reverse 3 15
+reverse 3 10
+rotate 184
+move 18 1
+rotate -319
+rotate 989
+swap 7 5
+move 3 2
+move 3 8
+swap 0 14
+swap 13 0
+rotate -478
+move 14 7
+swap 0 6
+rotate -267
+reverse 1 11
+move 6 2
+rotate 25
+swap 0 19
+reverse 2 2
+reverse 2 16
+move 15 9
+reverse 14 16
+rotate 539
+swap 17 10
+rotate 276
+move 11 5
+reverse 2 5
+rotate -652
+reverse 13 16
+move 6 11
+rotate -251
+reverse 5 7
+move 16 7
+reverse 3 16
+move 18 11
+reverse 5 8
+rotate -423
+reverse 8 18
+move 2 4
+move 14 13
+move 15 15
+rotate 373
+rotate 655
+swap 11 6
+rotate 462
+reverse 6 12
+reverse 1 8
+move 0 17
+move 1 0
+swap 18 2
+swap 11 2
+swap 8 17
+swap 16 19
+rotate -64
+reverse 12 13
+swap 18 5
+move 2 0
+reverse 7 14
+reverse 2 7
+move 1 2
+swap 15 18
+reverse 5 12
+swap 10 13
+rotate 46
+move 0 6
+rotate 657
+rotate 977
+move 3 13
+reverse 7 12
+rotate 731
+swap 16 9
+XQFYFCHIUAVPQOLODCCDCZOUKPYJNOSWVTNEWCDHKCHHIAOVGIPRAZDSTQYFVWNLZLQP
+50
+reverse 1 45
+move 35 12
+move 8 56
+move 8 13
+swap 67 21
+move 3 48
+rotate 643
+swap 43 45
+reverse 17 35
+rotate -821
+move 59 53
+move 67 39
+swap 24 59
+move 53 40
+rotate 523
+move 60 66
+rotate 221
+rotate -425
+reverse 10 15
+move 60 26
+rotate -619
+move 16 53
+move 33 62
+swap 4 5
+move 58 8
+move 51 47
+reverse 28 58
+reverse 21 33
+rotate 477
+swap 1 47
+reverse 4 6
+swap 58 2
+swap 21 32
+swap 28 8
+move 9 25
+rotate 960
+reverse 33 45
+move 36 21
+move 26 16
+swap 8 58
+move 63 29
+rotate -912
+move 31 30
+rotate 412
+swap 41 60
+rotate -850
+rotate -6
+reverse 12 66
+rotate 164
+move 26 51
+BYLIBJWUELSNICYXOQJRIDSANLHXPACXHKGEVXYWWSTZRLDBGKGDITCYDMAPQ
+48
+rotate 785
+reverse 27 46
+reverse 19 23
+rotate -676
+reverse 39 56
+move 7 17
+swap 15 45
+rotate -563
+reverse 30 43
+reverse 0 11
+move 26 10
+swap 49 21
+rotate 967
+rotate 452
+swap 46 21
+move 10 49
+swap 44 1
+move 3 57
+move 48 32
+swap 27 40
+reverse 16 26
+reverse 5 46
+swap 26 56
+move 41 51
+move 13 56
+swap 50 47
+rotate -201
+move 5 30
+rotate -975
+move 35 36
+move 8 8
+move 25 17
+reverse 44 50
+swap 23 19
+reverse 24 28
+move 48 1
+rotate 483
+swap 12 57
+move 59 58
+reverse 13 49
+move 37 45
+rotate -232
+move 0 58
+swap 15 39
+rotate 601
+move 54 22
+swap 21 34
+move 33 10
+WOT
+60
+swap 2 0
+swap 1 1
+move 0 1
+move 2 0
+swap 0 2
+move 0 2
+rotate 317
+swap 0 0
+move 2 1
+swap 2 1
+move 0 2
+rotate 335
+reverse 0 2
+rotate -489
+swap 1 2
+rotate -518
+rotate -438
+move 1 2
+reverse 1 2
+rotate -182
+swap 1 0
+move 2 2
+move 0 1
+move 1 1
+rotate 126
+move 2 0
+reverse 1 2
+rotate 222
+swap 2 0
+reverse 1 1
+rotate 554
+move 2 1
+reverse 0 0
+rotate 232
+reverse 0 2
+reverse 0 1
+reverse 0 1
+move 0 0
+reverse 0 2
+move 2 1
+swap 0 2
+swap 1 2
+move 0 0
+move 0 2
+swap 2 1
+reverse 1 1
+move 1 1
+move 2 0
+swap 2 0
+swap 1 1
+move 2 0
+move 1 1
+swap 1 2
+move 0 1
+reverse 0 0
+move 0 2
+reverse 1 2
+rotate -718
+move 0 2
+rotate 237
+RGNFMAHWSVRXVFQBPUDVAIXKEDYFMYFJFAVYHESAUSORERKCZVBMNEBDEESANKLNBAS
+17
+reverse 36 61
+swap 26 44
+reverse 3 48
+swap 2 58
+reverse 47 60
+swap 29 39
+move 48 28
+reverse 27 27
+swap 9 56
+rotate 114
+move 43 54
+move 2 59
+swap 51 28
+reverse 7 19
+reverse 10 54
+rotate -451
+swap 53 28
+MDHRWFPCGCOGBSCYMHPMUOBOJRSDVYMVWXPAIK
+61
+rotate 556
+reverse 31 34
+move 11 8
+rotate 227
+reverse 10 28
+move 35 6
+reverse 26 33
+rotate 332
+rotate -848
+rotate 689
+rotate 760
+reverse 4 17
+reverse 17 18
+swap 8 36
+rotate 239
+move 21 19
+swap 6 22
+move 9 5
+reverse 13 26
+reverse 6 34
+move 9 5
+reverse 2 6
+reverse 12 27
+reverse 3 3
+move 4 33
+move 15 22
+reverse 20 21
+reverse 1 36
+reverse 36 37
+reverse 7 21
+reverse 19 36
+swap 1 1
+reverse 1 33
+reverse 26 32
+reverse 11 24
+move 16 24
+move 4 23
+move 14 25
+reverse 27 36
+rotate -847
+swap 2 31
+swap 20 1
+reverse 16 16
+swap 10 36
+rotate 164
+reverse 17 30
+reverse 9 12
+swap 15 1
+swap 5 3
+move 32 26
+rotate -188
+swap 21 23
+move 29 20
+move 15 12
+swap 31 19
+swap 29 21
+swap 25 3
+move 30 18
+reverse 30 30
+move 0 36
+reverse 17 18
+IQKCILVWMWHYXRWDQFYRGIFUEZGFWULRFNMJOZNISJSEGRFWSQKBTBRBPOKJGTZCQIGWWAZNQEWMSTZXXYPASX
+43
+reverse 2 14
+swap 83 5
+reverse 27 60
+reverse 4 12
+move 25 33
+swap 29 29
+move 42 2
+reverse 29 70
+swap 67 7
+rotate -323
+swap 81 73
+reverse 15 36
+reverse 0 14
+reverse 66 77
+swap 57 25
+rotate 127
+swap 39 0
+move 76 4
+move 15 24
+swap 19 23
+swap 22 25
+rotate 102
+swap 29 76
+move 1 73
+reverse 17 66
+reverse 32 50
+swap 27 41
+rotate -335
+rotate 828
+rotate 559
+swap 52 28
+move 78 80
+rotate -909
+reverse 28 76
+rotate 56
+rotate -799
+move 49 28
+reverse 5 23
+move 76 5
+rotate -676
+reverse 7 51
+reverse 7 56
+rotate -88
+MKUIBHOSPTOTCCRWFOTXJUWZYKXZUNFSINXECMVAROZGKYLSDFMUTQPFWQCNCGNNBXWSFSRPYCXBREWJQDRDT
+69
+swap 27 7
+move 84 78
+reverse 70 76
+reverse 7 8
+reverse 35 74
+move 63 69
+swap 68 64
+move 62 19
+reverse 26 57
+rotate -922
+swap 74 21
+rotate -132
+swap 33 37
+rotate 70
+swap 76 15
+reverse 17 54
+reverse 32 34
+reverse 3 38
+rotate -282
+swap 10 68
+move 0 26
+swap 45 12
+swap 60 7
+rotate 752
+swap 13 52
+rotate 648
+reverse 68 72
+reverse 3 64
+swap 21 25
+reverse 16 70
+move 76 26
+move 71 6
+move 12 63
+reverse 24 72
+move 84 51
+move 47 26
+move 0 8
+reverse 23 54
+rotate -400
+rotate 270
+swap 47 52
+move 74 38
+rotate -989
+rotate 758
+swap 50 40
+move 7 14
+move 65 19
+reverse 14 66
+swap 20 56
+rotate -787
+swap 71 15
+move 4 1
+move 47 58
+rotate -201
+rotate 257
+reverse 55 67
+move 38 83
+swap 80 21
+rotate -106
+reverse 20 30
+rotate -193
+swap 73 29
+rotate -808
+rotate -780
+reverse 4 29
+move 22 17
+swap 64 14
+move 43 66
+reverse 6 69
+JGGSBNKNRIWCGMHUYLIPOCMQTVXNQOJYWXTKRFIIAEDZQWBICYRPRBYAXOSQMDMVSXBUPOUBZLFXMBJABEAPTV
+37
+rotate -773
+move 78 62
+reverse 53 82
+rotate -164
+move 17 68
+reverse 3 28
+move 25 52
+reverse 58 75
+rotate 104
+reverse 69 83
+move 10 79
+move 81 82
+swap 68 42
+rotate -535
+move 28 28
+rotate 214
+rotate 134
+move 30 32
+swap 45 73
+move 31 22
+move 25 2
+swap 76 0
+swap 23 55
+swap 61 40
+rotate 791
+rotate 785
+reverse 3 76
+reverse 21 48
+rotate 686
+rotate 217
+reverse 32 46
+reverse 32 39
+reverse 44 84
+swap 71 59
+swap 21 70
+move 81 83
+move 14 78
+OVCBFFWJLFZGQTWFQHQIJZWJPERFBHEJSWLKDIXO
+28
+move 0 24
+swap 31 3
+move 37 33
+rotate 12
+rotate 490
+reverse 9 33
+rotate 388
+rotate 10
+reverse 17 35
+move 3 30
+move 21 36
+move 19 10
+rotate 99
+move 7 2
+rotate -699
+rotate 209
+rotate 104
+swap 2 33
+move 6 37
+rotate 220
+rotate 876
+swap 7 35
+move 14 1
+reverse 5 33
+reverse 5 9
+swap 6 16
+rotate -220
+reverse 20 30
+IUUHZYYINZLKTWTKTTUHWOVYYLQZZIDFZDBZX
+25
+move 33 11
+reverse 1 34
+rotate -88
+swap 15 17
+swap 9 7
+swap 26 26
+swap 16 20
+reverse 0 35
+reverse 12 13
+rotate 968
+reverse 4 5
+rotate -947
+reverse 20 22
+rotate 556
+reverse 4 28
+swap 13 14
+rotate -618
+move 12 0
+swap 9 23
+swap 2 24
+move 28 1
+reverse 3 6
+swap 5 19
+reverse 0 36
+rotate -581
+F
+19
+reverse 0 0
+move 0 0
+move 0 0
+move 0 0
+swap 0 0
+rotate 930
+move 0 0
+move 0 0
+reverse 0 0
+swap 0 0
+swap 0 0
+move 0 0
+swap 0 0
+move 0 0
+reverse 0 0
+move 0 0
+reverse 0 0
+swap 0 0
+move 0 0
+KSYIFVFRVWOCBLVXDQPRRHKUIMSGWWKAJXFAHJXDPJWDOOTPQ
+96
+move 26 23
+reverse 27 46
+swap 17 17
+swap 5 8
+move 44 5
+reverse 9 22
+rotate 382
+swap 16 11
+swap 14 47
+swap 5 2
+rotate -30
+reverse 14 29
+reverse 35 43
+reverse 18 35
+move 37 48
+swap 5 9
+move 0 42
+rotate 873
+rotate 405
+rotate -480
+rotate -565
+move 44 43
+move 18 41
+move 13 29
+reverse 8 25
+reverse 7 20
+reverse 21 25
+rotate 202
+move 47 44
+swap 10 17
+reverse 28 43
+reverse 35 38
+swap 15 4
+swap 26 33
+move 33 24
+swap 23 47
+reverse 20 30
+reverse 12 39
+rotate 348
+move 13 16
+move 17 12
+reverse 16 41
+move 32 3
+rotate 263
+swap 15 13
+move 10 25
+move 46 42
+swap 26 2
+rotate 445
+move 33 25
+swap 18 20
+reverse 10 41
+rotate -314
+swap 2 23
+move 23 38
+rotate -625
+rotate -706
+swap 2 26
+move 24 14
+rotate -251
+rotate 240
+reverse 12 38
+reverse 3 37
+move 39 6
+reverse 0 43
+rotate -759
+move 0 36
+move 16 20
+reverse 8 33
+move 19 16
+rotate 447
+rotate 288
+reverse 18 46
+reverse 19 47
+swap 36 13
+swap 39 26
+rotate 7
+rotate 387
+rotate -553
+reverse 0 35
+swap 0 14
+rotate -177
+rotate -169
+reverse 25 43
+reverse 7 28
+swap 29 5
+rotate 912
+swap 27 27
+rotate -761
+rotate -187
+rotate 792
+rotate 35
+rotate -871
+reverse 14 39
+swap 27 7
+reverse 31 36
+CHHDAWXBBW
+15
+swap 0 1
+swap 3 0
+reverse 7 8
+reverse 7 9
+reverse 0 6
+move 5 7
+rotate 619
+swap 4 2
+reverse 1 4
+rotate -432
+rotate 481
+move 4 7
+move 3 9
+reverse 1 7
+swap 9 2
+VXBRJFGHUPBLJOAFBIUIYPVKCJFCBWXMWTALFTQALQUCDKJHXMBCQVBWKLQXTVDDQYIRDMXAJFFUGQGGDXMODJCNYWTVSEXGN
+32
+reverse 5 26
+rotate 98
+rotate -427
+move 64 67
+reverse 0 31
+swap 31 39
+move 17 14
+reverse 42 65
+move 14 1
+move 48 9
+swap 40 32
+move 38 86
+move 74 92
+reverse 20 88
+rotate 704
+move 62 42
+reverse 10 28
+swap 25 76
+rotate -441
+move 28 56
+swap 27 59
+reverse 2 57
+move 52 29
+swap 42 9
+reverse 24 96
+rotate 671
+rotate -303
+reverse 22 54
+reverse 15 51
+swap 16 2
+move 82 92
+swap 88 44
+IZWZXTLRGPLMMDXPHVABLJDDTWLRAETIKHWERVMNMMLLCGUNPXHCABNYMTYLMSCCQJXK
+53
+move 29 33
+reverse 9 33
+swap 10 11
+rotate -81
+rotate -710
+move 23 7
+move 63 37
+swap 18 12
+rotate -497
+swap 42 10
+swap 20 26
+swap 51 31
+rotate 751
+reverse 6 23
+reverse 21 37
+rotate 78
+move 28 57
+reverse 29 61
+reverse 15 30
+reverse 13 43
+swap 41 21
+move 15 60
+rotate 330
+move 41 34
+reverse 15 51
+move 33 34
+move 11 41
+reverse 0 55
+reverse 19 21
+reverse 43 60
+reverse 10 30
+move 12 65
+rotate 702
+rotate 141
+move 46 57
+reverse 57 63
+move 64 0
+swap 53 5
+move 10 2
+reverse 10 44
+move 55 19
+move 62 32
+move 20 2
+move 17 14
+swap 1 3
+swap 46 53
+reverse 40 47
+move 65 32
+reverse 21 40
+rotate -438
+swap 20 12
+rotate 329
+move 27 28
+KCWHPHBBHGSZXTALOMYJBCRPUDZVNCWYXQRYNFZJDIJGSCY
+68
+swap 24 22
+rotate -526
+rotate -804
+rotate 22
+reverse 18 32
+reverse 0 4
+swap 45 30
+rotate -589
+move 5 29
+rotate 917
+rotate -866
+move 15 22
+rotate 138
+move 40 29
+rotate -122
+move 34 25
+reverse 8 23
+move 34 4
+swap 34 34
+swap 36 22
+move 4 19
+reverse 3 30
+rotate -343
+move 46 33
+move 42 18
+rotate -894
+move 33 45
+swap 32 9
+reverse 18 24
+swap 40 38
+reverse 24 34
+rotate 4
+swap 28 33
+swap 27 4
+reverse 18 20
+move 43 28
+rotate -637
+move 21 5
+reverse 2 36
+swap 33 40
+swap 10 18
+rotate 23
+move 40 45
+reverse 29 31
+move 41 40
+reverse 35 39
+rotate 896
+swap 6 10
+swap 0 17
+rotate -424
+move 10 42
+reverse 16 31
+reverse 19 23
+swap 2 41
+reverse 2 12
+swap 20 10
+reverse 24 27
+rotate 284
+reverse 8 29
+swap 4 19
+swap 4 9
+swap 27 9
+rotate -103
+reverse 21 39
+move 24 39
+rotate 378
+swap 46 46
+swap 12 20
+QHRJOGTQXLYW
+14
+rotate 373
+move 0 7
+reverse 9 11
+move 7 3
+rotate 42
+reverse 1 10
+rotate 520
+swap 9 7
+move 8 6
+swap 6 11
+move 7 4
+swap 2 11
+move 3 11
+move 4 0
+ENHVGFQXCLSPRHRIOOKZBACJWHZYTPBSVYMZSHMRBQHMYZPHEVNSTLLQMIWQJLHKDSTUQHHNETM
+92
+move 47 71
+swap 23 49
+move 15 38
+move 66 45
+reverse 66 70
+move 63 19
+reverse 0 20
+rotate 90
+move 24 48
+rotate 517
+move 2 17
+swap 6 65
+reverse 6 74
+rotate 64
+reverse 7 33
+swap 47 51
+reverse 17 30
+move 27 27
+reverse 61 62
+swap 6 21
+swap 17 18
+move 17 45
+swap 66 35
+move 45 56
+reverse 14 40
+reverse 0 17
+rotate 752
+swap 56 31
+reverse 14 73
+swap 9 60
+move 38 2
+move 15 68
+move 18 46
+rotate -274
+move 32 4
+move 30 55
+move 55 15
+swap 46 9
+move 66 19
+reverse 0 25
+rotate -780
+rotate -267
+reverse 26 27
+reverse 18 51
+move 2 17
+rotate -857
+move 48 24
+rotate -548
+rotate 48
+reverse 17 60
+swap 70 14
+reverse 33 57
+swap 64 39
+rotate 277
+reverse 23 44
+reverse 43 52
+swap 49 5
+swap 64 73
+move 67 11
+reverse 14 39
+rotate 632
+reverse 59 61
+rotate -76
+move 21 50
+move 13 68
+reverse 34 37
+swap 58 27
+rotate 337
+move 71 24
+reverse 6 42
+move 63 9
+reverse 22 72
+swap 20 65
+reverse 5 5
+rotate -10
+rotate -199
+swap 50 74
+move 37 59
+move 13 4
+swap 33 7
+move 67 22
+reverse 5 43
+rotate 41
+rotate 266
+swap 35 54
+move 11 56
+reverse 5 68
+move 61 66
+rotate -453
+reverse 37 51
+swap 66 54
+reverse 15 39
+QQBCGYXWEBFBWQPJJITDLCRQBGGPBSUWMGJZDGJOCNUGD
+81
+reverse 2 20
+rotate 529
+swap 24 1
+rotate -729
+reverse 29 40
+reverse 18 33
+reverse 5 13
+move 27 29
+rotate -916
+reverse 20 29
+move 34 1
+swap 37 3
+swap 26 42
+move 13 34
+swap 19 6
+rotate -857
+swap 16 33
+rotate -769
+swap 12 43
+rotate 970
+swap 28 30
+swap 19 10
+move 13 8
+rotate 939
+move 35 23
+swap 0 39
+swap 34 25
+swap 39 0
+rotate -967
+rotate -461
+reverse 16 20
+move 10 2
+swap 28 16
+rotate 651
+swap 18 18
+reverse 35 38
+rotate -752
+reverse 31 39
+rotate -886
+move 22 10
+swap 27 23
+move 33 29
+rotate 374
+reverse 4 41
+move 28 29
+rotate -159
+swap 15 2
+rotate 897
+reverse 0 4
+rotate -18
+move 25 17
+rotate 113
+move 26 35
+move 1 22
+swap 30 10
+reverse 1 20
+reverse 7 26
+swap 31 36
+rotate 315
+rotate 992
+move 28 34
+swap 10 5
+rotate 735
+move 23 10
+rotate -974
+rotate -334
+reverse 20 32
+reverse 3 18
+move 41 25
+reverse 11 20
+move 12 35
+swap 9 2
+move 8 24
+rotate -71
+swap 17 23
+move 2 1
+reverse 1 23
+rotate 686
+swap 34 2
+move 17 15
+move 9 11
+DLKHSHGRYXFWTEJBNLGVKCQREEDOSJLFCHLWTUNENZHMFEAWQYNZMGHBUBMXQBGICXVVXYEDEOZOJKOJXVRZRSUUWYADF
+82
+move 60 25
+move 21 92
+rotate 604
+move 79 83
+swap 37 19
+rotate -53
+reverse 68 72
+rotate 531
+move 63 28
+swap 30 89
+move 8 47
+reverse 25 40
+reverse 12 79
+swap 71 30
+rotate -983
+rotate 468
+rotate 863
+swap 53 39
+reverse 35 37
+swap 74 84
+move 57 24
+reverse 1 33
+rotate 904
+reverse 6 83
+rotate -677
+move 51 79
+reverse 71 77
+reverse 16 19
+rotate -130
+move 84 74
+move 9 51
+swap 56 22
+reverse 32 92
+rotate -335
+rotate 276
+rotate 728
+reverse 26 69
+move 78 73
+rotate -722
+reverse 10 50
+move 51 19
+reverse 58 70
+reverse 20 63
+swap 29 76
+reverse 14 86
+swap 28 20
+rotate -920
+swap 27 33
+move 15 63
+reverse 9 29
+move 35 66
+rotate 90
+swap 38 87
+reverse 13 50
+swap 23 62
+swap 90 54
+move 4 67
+swap 21 73
+rotate -173
+reverse 32 32
+reverse 79 84
+rotate -68
+swap 63 54
+rotate -649
+reverse 17 77
+reverse 22 47
+rotate 386
+reverse 17 91
+reverse 55 80
+swap 12 62
+rotate 832
+move 16 54
+reverse 24 75
+move 82 48
+rotate -634
+move 2 38
+rotate -652
+swap 76 89
+rotate -984
+swap 41 85
+reverse 37 41
+move 16 31
+XGFROHHYKNNVVJJZIPUMXAJMFCJSSILBJVWGIAUHRYNGUPAIAJQDSGILSDXUAZMEXJKIHVFYIKSTSWGMHFSIIWONNFA
+29
+rotate 738
+swap 38 43
+swap 76 18
+reverse 29 89
+move 16 74
+move 29 83
+rotate 241
+swap 64 9
+swap 46 35
+move 70 88
+move 59 15
+move 32 56
+move 57 62
+reverse 20 25
+move 22 59
+swap 65 33
+swap 9 77
+reverse 23 74
+move 34 32
+move 59 29
+move 6 49
+reverse 38 73
+move 54 19
+reverse 24 47
+swap 14 80
+reverse 5 75
+reverse 65 89
+reverse 27 38
+reverse 39 46
+DALLCAQXYEKGDJKJOCKXXVQFKAHKSSVUJSZVVROTVTSPVIC
+23
+reverse 31 40
+swap 45 24
+move 12 31
+reverse 4 9
+rotate -503
+rotate 231
+move 30 24
+rotate -332
+rotate -824
+reverse 26 39
+rotate 829
+rotate -180
+swap 26 12
+swap 35 26
+move 1 10
+rotate 188
+move 39 18
+reverse 21 34
+reverse 16 22
+swap 46 43
+move 26 29
+swap 19 13
+swap 14 13
+CHWWOTDHGTRPLEDOPKZQXSYVENHFVHXKEUCUZYBQMSUXMWZYHABGYSDHUTPLKMELYHMYPDQCBQVJAWBUQFHQGWYHGZX
+80
+move 49 76
+swap 56 63
+move 76 13
+rotate 294
+swap 63 47
+move 84 58
+swap 13 90
+rotate 282
+rotate -961
+swap 20 11
+move 77 70
+reverse 10 76
+move 66 6
+move 83 69
+move 72 24
+move 14 6
+move 50 16
+swap 51 77
+rotate 873
+reverse 2 90
+rotate 225
+swap 39 13
+swap 18 35
+swap 64 76
+rotate -916
+move 41 1
+swap 34 69
+move 86 75
+swap 29 11
+reverse 32 44
+rotate -346
+rotate -500
+swap 85 79
+reverse 12 60
+move 72 81
+move 76 7
+reverse 12 28
+rotate -700
+rotate 583
+reverse 80 87
+rotate 903
+swap 2 3
+move 54 3
+reverse 10 24
+reverse 41 86
+rotate 109
+swap 60 15
+move 3 82
+move 2 77
+move 10 61
+reverse 30 87
+rotate -260
+swap 71 19
+move 3 45
+move 71 25
+rotate -536
+move 9 27
+reverse 6 39
+move 21 42
+rotate 979
+reverse 12 37
+reverse 25 82
+reverse 4 40
+reverse 21 79
+rotate 647
+move 43 16
+rotate 728
+rotate 497
+swap 4 18
+rotate -271
+rotate 484
+rotate 643
+move 83 76
+rotate -725
+rotate -241
+rotate -94
+swap 29 28
+move 52 42
+swap 54 8
+reverse 12 83
+KFCENPPDCRSPPCVNTBTKBPTXZHISLQLKJXALDXUHNEYDTLRNYAMFZSGHHDWVEEOPVPCSXKO
+66
+reverse 3 16
+rotate -637
+swap 20 47
+reverse 24 56
+swap 2 51
+rotate 115
+swap 68 65
+rotate 202
+move 0 47
+swap 15 64
+move 25 36
+reverse 59 69
+rotate -799
+rotate -383
+move 28 17
+reverse 29 66
+swap 59 24
+rotate -64
+rotate 620
+rotate -943
+reverse 25 57
+reverse 6 64
+move 42 6
+reverse 17 30
+move 31 41
+swap 8 64
+rotate -749
+reverse 8 32
+rotate -60
+swap 1 44
+swap 67 59
+swap 48 16
+reverse 44 45
+reverse 38 51
+swap 66 12
+swap 13 50
+rotate -860
+reverse 3 31
+swap 25 56
+swap 1 26
+rotate 191
+rotate -486
+rotate -547
+rotate 46
+swap 40 15
+reverse 1 7
+swap 10 60
+reverse 32 69
+move 33 10
+reverse 23 32
+move 62 11
+swap 34 18
+rotate -897
+reverse 5 33
+rotate 264
+rotate -437
+move 29 62
+move 61 51
+reverse 21 69
+swap 40 16
+move 31 69
+move 57 49
+swap 4 66
+swap 25 22
+reverse 4 27
+move 4 7
+PVHDPGUAKAOCJGGLZJRSKIXTQQBSQKNARFRUVOLFIYNKRXE
+32
+reverse 41 45
+rotate 13
+swap 40 23
+swap 40 34
+rotate 524
+rotate -879
+reverse 33 38
+reverse 8 19
+swap 46 0
+reverse 13 25
+reverse 12 27
+move 1 38
+swap 20 26
+move 31 13
+rotate 809
+rotate 19
+swap 42 13
+swap 20 43
+reverse 27 45
+reverse 3 33
+swap 21 14
+rotate 800
+swap 43 11
+rotate -152
+reverse 21 36
+reverse 22 37
+rotate -365
+swap 27 17
+swap 30 10
+swap 30 35
+rotate -114
+move 39 19
+VDHVWSHUKJSULSQMEUHCOBVFMALXRZMUTLQKVACIGZIVFJZDFQUCYNPLIGDEDOD
+6
+move 11 32
+reverse 14 59
+move 51 50
+rotate -188
+rotate 958
+swap 36 40
+TNCJDIILKJMJHPHYSBTJGNHAEVENLQPTSAWGUNWPXSNPXGIVCENULILMLSGYAN
+38
+move 19 26
+move 40 60
+rotate 352
+rotate 282
+rotate 36
+rotate -927
+rotate 540
+swap 14 53
+rotate 213
+move 37 46
+reverse 25 50
+swap 23 36
+swap 22 2
+reverse 29 42
+reverse 0 40
+swap 55 42
+move 17 57
+reverse 27 32
+swap 51 19
+move 23 33
+move 54 26
+reverse 34 50
+reverse 48 48
+rotate -340
+move 27 25
+rotate -632
+reverse 8 37
+move 22 45
+rotate 975
+move 55 8
+reverse 25 47
+swap 30 39
+move 23 12
+reverse 4 54
+reverse 21 35
+move 17 29
+reverse 44 46
+move 17 53
+UAELULHTUODDEVMHNBHSF
+43
+swap 16 8
+reverse 1 18
+reverse 5 11
+rotate 314
+move 1 11
+reverse 6 8
+swap 13 1
+move 6 7
+move 6 11
+move 0 1
+rotate -155
+move 20 0
+move 14 20
+swap 12 11
+move 13 10
+move 16 15
+swap 3 7
+swap 20 1
+rotate 342
+swap 19 9
+move 8 11
+move 4 19
+reverse 3 3
+reverse 2 15
+swap 9 19
+rotate -865
+swap 12 7
+swap 7 19
+move 6 11
+rotate -381
+reverse 11 12
+reverse 4 15
+reverse 11 12
+reverse 0 3
+reverse 9 18
+reverse 7 12
+swap 8 9
+swap 14 13
+rotate 125
+reverse 15 20
+move 8 4
+move 20 18
+move 7 5
+SEPDYQOPDNDQCGDOKTHNHYLBILYCIUXQLJXIRIJB
+17
+swap 36 37
+move 12 18
+swap 36 11
+move 39 31
+reverse 12 28
+move 24 29
+reverse 2 24
+swap 24 0
+rotate 406
+rotate 169
+reverse 11 19
+swap 28 20
+swap 5 32
+move 35 17
+reverse 30 38
+swap 6 34
+reverse 23 28
+BWLCUERQHLAZVUFZWFBBBDISRLYYHQALLSGWGPGYGHCSWJQCHVYSYK
+98
+rotate 690
+rotate -325
+move 19 39
+rotate 705
+reverse 24 24
+swap 23 48
+rotate -671
+reverse 28 32
+move 33 45
+move 53 16
+rotate 237
+move 16 21
+rotate 805
+reverse 4 20
+move 40 53
+rotate -41
+swap 15 38
+swap 53 15
+move 13 3
+reverse 3 18
+reverse 10 15
+reverse 37 53
+rotate -866
+swap 7 43
+reverse 5 21
+rotate 303
+swap 3 29
+swap 40 42
+move 0 35
+rotate -792
+swap 1 23
+rotate -612
+swap 42 53
+rotate -304
+move 0 17
+rotate 398
+rotate -203
+reverse 5 21
+reverse 29 36
+move 32 24
+reverse 5 19
+move 31 51
+reverse 5 34
+move 45 21
+swap 41 38
+swap 31 29
+reverse 2 8
+move 21 6
+reverse 32 44
+swap 1 35
+rotate -703
+swap 53 50
+rotate -406
+move 27 17
+move 39 18
+move 53 31
+rotate 921
+swap 24 48
+move 12 1
+swap 20 3
+reverse 38 44
+reverse 25 30
+swap 15 42
+rotate 546
+swap 27 2
+reverse 30 45
+rotate 831
+move 28 31
+rotate 786
+swap 40 36
+swap 21 19
+swap 22 26
+reverse 32 34
+swap 40 8
+reverse 5 45
+move 53 35
+rotate -878
+rotate -381
+reverse 1 6
+rotate 786
+swap 12 38
+move 50 46
+swap 22 1
+swap 4 7
+swap 51 14
+rotate 244
+rotate -851
+move 50 52
+swap 14 33
+swap 32 35
+swap 8 30
+move 6 40
+move 23 53
+rotate 595
+rotate -81
+move 0 36
+swap 6 51
+swap 33 34
+QHOMSNLPRPZCNSLWFNCNGJNFMLANBTIWQATVUGBQMGJVEGBMSFN
+72
+reverse 40 50
+swap 41 22
+reverse 11 44
+swap 45 14
+rotate 370
+rotate -690
+rotate 396
+move 5 21
+reverse 26 34
+move 26 6
+move 12 34
+reverse 6 48
+move 22 7
+rotate -806
+swap 31 47
+reverse 12 25
+reverse 28 38
+move 24 49
+reverse 13 22
+swap 19 39
+move 12 32
+reverse 9 50
+reverse 0 11
+reverse 14 17
+move 27 28
+swap 8 33
+move 10 7
+move 17 6
+reverse 11 18
+move 19 35
+reverse 40 46
+reverse 19 43
+swap 0 22
+reverse 32 35
+swap 5 35
+reverse 21 27
+reverse 4 9
+rotate 77
+swap 30 49
+move 5 0
+rotate 98
+swap 43 0
+swap 3 27
+reverse 12 12
+reverse 2 9
+rotate 939
+move 21 44
+move 3 41
+rotate -394
+swap 1 14
+reverse 4 27
+rotate -568
+reverse 30 40
+reverse 6 38
+rotate -435
+reverse 5 43
+reverse 11 15
+reverse 37 50
+reverse 10 29
+rotate -518
+swap 31 20
+swap 6 41
+move 16 31
+rotate 322
+move 4 21
+reverse 25 47
+reverse 25 40
+move 50 32
+reverse 0 0
+reverse 28 29
+move 25 37
+move 29 43
+IAGCEJVABJRVFBVFVMPHZUOPCEUTIOEMRCUHOVSLCCYDHEZLRTKZXXIMTBGYBSJRNFLWDQNMKUQNCFDKXUBIMTVMSUIVGY
+11
+reverse 47 70
+rotate 362
+reverse 1 12
+reverse 44 86
+move 69 73
+reverse 14 77
+move 53 7
+move 41 55
+move 71 41
+reverse 26 66
+move 64 46
+OTHTRWXJEFGQQZBMLDMTXLAZCYTTTRRHTEIJUEATZWZVGYNH
+58
+reverse 4 44
+reverse 9 34
+reverse 11 35
+reverse 22 23
+reverse 5 6
+move 33 16
+swap 30 43
+move 15 22
+move 29 26
+reverse 19 22
+swap 1 33
+swap 5 19
+swap 34 42
+move 8 21
+swap 40 2
+move 35 15
+rotate -385
+swap 29 36
+rotate -528
+rotate 56
+rotate -178
+reverse 2 8
+move 10 47
+rotate -164
+swap 11 7
+rotate -168
+move 25 37
+move 9 41
+rotate 169
+move 12 25
+reverse 38 41
+swap 10 38
+reverse 8 17
+swap 43 2
+reverse 28 29
+rotate -398
+swap 6 17
+swap 27 0
+move 32 46
+rotate 486
+move 42 6
+swap 39 21
+swap 37 37
+reverse 9 32
+swap 14 30
+move 38 44
+move 2 24
+reverse 40 41
+reverse 10 42
+swap 33 30
+swap 46 3
+reverse 11 42
+reverse 1 17
+swap 1 7
+swap 20 31
+rotate -945
+swap 3 20
+move 24 39
+VFCWPNQQYMPAIYDLKASAQJZVULXTNXQKIQSLRRZNXMOGNAYWFIZCGJAOANNNANERPDQRWXUUQBLKTS
+35
+rotate -784
+swap 71 62
+move 17 25
+move 52 1
+rotate 342
+swap 36 72
+rotate -39
+reverse 17 73
+rotate 538
+rotate -190
+reverse 10 54
+move 5 6
+swap 45 77
+reverse 6 65
+rotate 4
+reverse 27 31
+rotate -836
+swap 69 8
+rotate -746
+rotate -424
+rotate -716
+reverse 4 10
+rotate 899
+rotate 851
+move 73 48
+reverse 24 52
+move 43 45
+move 54 75
+reverse 34 75
+reverse 2 44
+swap 53 69
+swap 1 27
+rotate -725
+reverse 18 21
+move 14 77
+ORDWVBLMLXAZHDJPVADDNZBFCQYCACDZFG
+46
+rotate 159
+reverse 9 33
+swap 21 24
+swap 14 19
+swap 7 28
+rotate -711
+swap 31 1
+move 14 21
+move 1 18
+reverse 15 21
+rotate -771
+reverse 4 23
+reverse 3 25
+rotate 81
+rotate -123
+move 6 7
+rotate -309
+swap 18 33
+swap 25 30
+move 22 16
+reverse 0 21
+move 20 9
+reverse 11 11
+rotate -873
+rotate 672
+reverse 10 23
+move 33 20
+rotate -423
+move 4 19
+reverse 13 30
+swap 22 14
+move 8 14
+reverse 8 25
+move 13 15
+move 21 6
+reverse 5 12
+move 25 7
+swap 2 25
+move 24 21
+rotate 520
+move 7 32
+rotate 691
+move 20 19
+move 5 7
+rotate -896
+rotate 81
+CNPXEQFAAHNEPKLJBYGMDDGSVBINDYEYZCXSJRPDXLNPPUVVLKPHTWRQSQLPRDY
+84
+move 52 47
+rotate 754
+swap 44 12
+swap 41 2
+swap 7 51
+move 1 49
+swap 18 34
+swap 1 39
+swap 33 45
+rotate 124
+move 0 22
+reverse 41 54
+move 37 5
+reverse 7 54
+move 35 54
+swap 41 36
+swap 30 62
+swap 24 31
+swap 21 31
+rotate -156
+move 21 26
+rotate 687
+rotate 649
+rotate 183
+reverse 11 45
+move 58 47
+rotate -552
+swap 30 46
+move 35 33
+move 33 16
+rotate 784
+rotate 623
+rotate -218
+rotate 515
+move 44 48
+rotate -747
+reverse 42 58
+move 2 24
+reverse 2 58
+reverse 24 26
+reverse 29 43
+move 56 36
+rotate -964
+move 40 45
+swap 54 37
+swap 33 25
+rotate 439
+swap 7 36
+move 1 19
+rotate -550
+reverse 30 61
+rotate -206
+rotate 13
+move 43 46
+rotate 726
+rotate 428
+swap 32 26
+move 10 25
+rotate 497
+swap 49 61
+swap 59 38
+rotate 200
+swap 20 19
+move 55 16
+reverse 35 42
+move 46 20
+move 59 62
+swap 40 39
+rotate 212
+rotate 68
+reverse 19 21
+rotate -275
+swap 38 28
+rotate 821
+reverse 17 42
+rotate -266
+move 20 42
+reverse 26 28
+rotate 440
+rotate 788
+rotate 852
+swap 19 55
+swap 62 55
+move 9 11
+XIAEVHJANOKHHPPJHQSSNCSIKFMSK
+80
+rotate 231
+reverse 7 12
+rotate -884
+move 6 17
+move 1 21
+rotate -375
+swap 22 21
+move 2 8
+move 7 12
+rotate -374
+rotate 61
+move 11 24
+rotate -595
+swap 19 8
+swap 2 19
+reverse 20 21
+swap 15 2
+swap 27 9
+reverse 10 20
+rotate -300
+swap 14 5
+move 23 4
+move 0 0
+rotate 743
+reverse 17 25
+rotate -893
+reverse 15 21
+swap 16 16
+move 17 23
+swap 12 23
+move 22 0
+swap 5 4
+rotate 896
+swap 7 8
+move 26 17
+swap 16 23
+move 27 23
+rotate -945
+rotate -782
+move 25 4
+swap 4 19
+rotate 780
+move 25 23
+reverse 12 28
+move 3 0
+reverse 14 15
+swap 2 12
+swap 7 23
+swap 25 14
+rotate -225
+swap 10 4
+rotate 30
+move 14 17
+move 7 18
+move 19 4
+swap 28 8
+rotate 211
+rotate 836
+rotate 196
+swap 24 2
+move 12 3
+reverse 12 12
+reverse 14 18
+rotate 624
+reverse 5 20
+swap 9 10
+rotate 924
+move 20 17
+move 24 21
+swap 2 7
+rotate 950
+reverse 13 14
+move 10 21
+rotate -996
+reverse 4 7
+rotate 198
+move 27 25
+reverse 14 21
+move 21 8
+move 18 20
+ZIXVUNFGPWEUGAPJYQWXAENXOIELBHIWRFOADGRIZYZFVT
+9
+reverse 19 21
+swap 21 23
+rotate -93
+swap 38 32
+rotate -365
+reverse 4 13
+swap 43 12
+swap 16 9
+rotate -496
+GYPMIVEKXAYEDVIEOHGZTIIQTWZUAJBRRZIYDCATDKGWAURKFXSKJTWNMNPETUBUBNYWKGFNVWWZCUABNSIBTCEMBUKUNE
+81
+reverse 43 61
+rotate 174
+reverse 5 75
+move 34 72
+rotate 842
+rotate -207
+reverse 13 66
+reverse 42 51
+move 89 60
+reverse 0 80
+rotate -267
+swap 27 82
+reverse 33 37
+rotate 293
+swap 85 54
+reverse 0 9
+move 16 45
+reverse 37 41
+reverse 10 23
+rotate 686
+move 45 5
+reverse 52 70
+reverse 11 63
+swap 26 46
+swap 2 35
+rotate -18
+move 16 0
+move 16 12
+move 31 51
+swap 43 42
+swap 59 71
+move 19 93
+rotate -12
+rotate -699
+reverse 6 91
+reverse 13 37
+rotate -421
+rotate -794
+rotate 472
+swap 69 67
+reverse 36 93
+reverse 0 85
+rotate 837
+swap 89 15
+move 85 48
+rotate 421
+reverse 26 77
+move 90 20
+swap 34 25
+swap 56 66
+move 91 46
+swap 28 1
+rotate -687
+move 80 46
+rotate -755
+swap 37 64
+move 36 82
+swap 43 78
+rotate 888
+rotate -637
+swap 10 29
+swap 93 88
+reverse 30 65
+rotate -317
+move 92 71
+swap 36 42
+reverse 27 53
+move 12 74
+swap 71 88
+rotate -567
+reverse 50 76
+swap 5 70
+reverse 7 92
+rotate 749
+swap 71 17
+swap 1 45
+rotate -274
+reverse 59 73
+swap 7 55
+swap 66 82
+swap 7 68
+PTJZDACMJNKTKHYQWUMXMWNTWDQMEUZTQWLAXTGBCWRNGWIVWD
+36
+swap 21 34
+rotate 577
+move 28 20
+move 24 9
+swap 44 42
+reverse 24 47
+swap 17 28
+reverse 5 25
+move 45 29
+swap 17 24
+reverse 9 26
+reverse 49 49
+swap 4 49
+reverse 31 35
+reverse 3 3
+move 16 46
+move 37 48
+move 20 34
+reverse 28 30
+move 39 42
+swap 24 7
+move 34 22
+move 24 2
+rotate 835
+swap 2 39
+move 24 9
+move 22 30
+reverse 37 43
+rotate 295
+move 20 6
+rotate -569
+rotate -273
+rotate -299
+swap 38 2
+rotate -249
+swap 17 37
+BROXGRYEHTADBSICWPJTQSIUTVAVNBTYHROFKAMAGLWHSDAMBNQHRVDDLDI
+22
+swap 13 37
+reverse 18 21
+move 8 55
+move 36 23
+rotate 82
+move 43 5
+move 56 15
+rotate -841
+rotate -181
+reverse 19 27
+swap 33 17
+swap 7 44
+rotate 981
+rotate -374
+rotate -670
+rotate 164
+rotate -270
+swap 7 10
+reverse 31 39
+rotate 525
+swap 27 10
+move 26 10
+SJXZUCEY
+25
+rotate 396
+rotate 621
+reverse 5 6
+rotate 880
+move 7 7
+rotate 214
+swap 6 3
+rotate 644
+move 4 2
+move 2 0
+move 6 2
+rotate 295
+swap 3 6
+reverse 2 2
+move 1 7
+swap 5 4
+move 3 7
+move 0 3
+swap 6 6
+swap 2 7
+reverse 0 7
+swap 1 4
+rotate 255
+rotate -929
+rotate 438
+DERGESQGPJKUOKQUVZMCEMEFISP
+97
+move 3 22
+swap 9 12
+swap 9 9
+reverse 2 4
+swap 5 11
+rotate 58
+swap 19 2
+reverse 3 10
+reverse 25 25
+move 17 14
+reverse 11 19
+reverse 20 26
+reverse 3 20
+move 22 17
+reverse 17 18
+swap 10 11
+move 21 26
+move 24 20
+move 2 24
+rotate 802
+reverse 26 26
+move 19 24
+move 14 3
+rotate -307
+move 3 11
+rotate -683
+move 2 21
+reverse 15 20
+move 16 1
+move 5 0
+move 22 6
+move 13 23
+reverse 3 23
+rotate 946
+move 17 17
+reverse 16 18
+reverse 5 13
+swap 14 18
+rotate -318
+reverse 19 25
+move 23 1
+swap 23 3
+rotate -826
+swap 10 3
+swap 3 14
+move 2 19
+reverse 4 12
+swap 1 14
+reverse 6 16
+move 23 8
+rotate 667
+rotate -670
+rotate 106
+move 8 19
+reverse 5 14
+rotate -465
+reverse 7 23
+rotate -467
+reverse 3 10
+reverse 6 10
+swap 0 20
+rotate -218
+reverse 0 24
+move 11 8
+swap 4 11
+rotate -236
+swap 18 14
+swap 26 10
+move 12 13
+reverse 3 25
+rotate 470
+swap 4 26
+rotate -340
+swap 7 20
+move 21 0
+move 0 20
+rotate 831
+swap 20 14
+swap 23 6
+rotate 2
+reverse 0 5
+rotate -337
+reverse 7 7
+reverse 7 18
+rotate 97
+rotate 928
+rotate -116
+rotate 264
+swap 25 23
+rotate -857
+reverse 0 25
+rotate 652
+rotate 115
+swap 24 15
+swap 19 21
+rotate -348
+swap 26 20
+UBEDHJUKZJAJFGTHUMPTTKDQASTMBGQJXLEECJRBNSATWEUNEJLEOJLFHIJSXNUMWMLXJXCODZZKRJHHODPEMVSCLZSTQLJPF
+35
+swap 25 32
+reverse 0 40
+reverse 61 67
+reverse 41 66
+move 2 61
+rotate -537
+reverse 10 89
+move 66 18
+move 36 61
+reverse 58 64
+swap 27 8
+move 66 26
+reverse 36 51
+reverse 8 32
+move 21 55
+rotate 671
+rotate -169
+rotate -45
+move 81 32
+reverse 27 83
+reverse 35 45
+reverse 3 22
+rotate 346
+reverse 81 88
+reverse 90 94
+rotate 859
+reverse 41 53
+move 50 14
+swap 72 51
+reverse 43 45
+swap 52 39
+move 28 61
+rotate -550
+move 13 38
+move 33 45
+SZRIZCPNYCXYBUHTOGOVECDENHKREQRCLWFJR
+31
+reverse 6 13
+reverse 13 28
+reverse 7 23
+swap 26 18
+reverse 2 2
+move 35 35
+reverse 14 15
+move 12 9
+swap 10 11
+reverse 17 25
+rotate -879
+move 11 11
+reverse 10 30
+reverse 0 19
+reverse 29 29
+swap 36 14
+rotate -70
+reverse 7 9
+rotate -486
+rotate 87
+swap 33 18
+rotate -6
+reverse 13 14
+swap 28 15
+move 23 26
+move 1 35
+reverse 10 24
+reverse 1 19
+reverse 29 31
+move 3 21
+move 36 21
+MJ
+24
+swap 0 1
+swap 1 0
+swap 1 0
+swap 1 0
+reverse 1 1
+move 0 0
+move 0 0
+reverse 0 1
+swap 0 1
+reverse 1 1
+swap 1 0
+rotate -353
+swap 0 0
+reverse 0 1
+swap 1 1
+swap 1 0
+swap 0 0
+move 0 0
+move 1 1
+rotate -127
+rotate -971
+reverse 0 1
+move 0 0
+move 0 1
+SJXIOFFPXTSYZJTMFVWKVEMRGYRUFHRHBCOLPFOVXUQTYCTYRXAMDAQCNNXWZJBEKDGBAVVIOJBUXCBOFA
+6
+reverse 7 74
+rotate 240
+swap 14 52
+swap 40 8
+swap 57 69
+rotate -33
+SAKNWBJKIPPYUHQUPFGTTUHIRQPQJDBUJZMRDKOTUZJKFSELTAGFXAVFKIDS
+64
+swap 50 9
+move 12 27
+swap 55 19
+reverse 21 32
+reverse 15 56
+move 9 12
+swap 7 10
+swap 11 30
+reverse 39 47
+swap 55 4
+move 11 56
+move 48 51
+move 5 40
+swap 2 3
+move 43 26
+rotate 915
+swap 25 58
+reverse 18 45
+move 47 49
+move 57 0
+rotate -801
+move 14 5
+rotate -858
+reverse 42 49
+move 8 0
+swap 5 15
+rotate 10
+move 8 22
+reverse 22 51
+move 53 0
+swap 41 47
+reverse 0 19
+rotate 208
+move 24 19
+rotate -337
+reverse 7 8
+move 50 17
+swap 21 31
+move 25 29
+reverse 6 48
+rotate -848
+move 16 11
+move 15 56
+reverse 56 57
+swap 16 12
+rotate 365
+rotate 183
+reverse 31 50
+rotate -254
+reverse 14 39
+rotate 826
+swap 48 27
+move 56 2
+reverse 27 41
+swap 57 54
+swap 50 50
+move 47 43
+move 31 24
+swap 57 48
+swap 46 35
+swap 30 33
+swap 21 53
+move 3 20
+swap 42 19
+GIENXWUBRJUAANJHTIGUYUQHFTSPOLZSFXAYWOMWIJAXDMCNRZAZGRZXCJDKYIEZSDYQHKGDDFNMGZ
+39
+swap 66 48
+move 29 3
+swap 54 52
+reverse 43 51
+move 3 24
+move 57 65
+move 16 8
+swap 47 23
+swap 40 24
+rotate -913
+swap 18 49
+move 14 43
+swap 50 75
+swap 17 43
+rotate -171
+rotate -930
+move 18 27
+reverse 8 64
+move 8 24
+reverse 21 30
+move 9 16
+rotate 576
+rotate 375
+reverse 39 61
+move 73 37
+move 29 56
+rotate -799
+move 48 51
+move 43 5
+reverse 19 22
+rotate -33
+swap 40 13
+move 9 51
+move 47 11
+rotate 174
+swap 69 68
+rotate 380
+reverse 60 61
+reverse 55 73
+JETLNCQCTRXXBVUPRUMDQRCRYVEGLZXGDTQXEMNGHDJGRZPRBJVWLALGTYMCXRTKXDXZOCDMBUWFWPXX
+64
+swap 30 60
+rotate 410
+swap 15 56
+reverse 24 31
+swap 49 56
+swap 46 30
+reverse 60 66
+reverse 10 36
+rotate -226
+move 2 63
+swap 62 60
+rotate -425
+swap 14 31
+swap 61 75
+move 62 20
+rotate -834
+rotate 202
+move 45 58
+swap 73 11
+reverse 23 28
+rotate -576
+rotate -567
+move 53 64
+rotate -293
+swap 73 77
+reverse 21 22
+move 43 64
+reverse 22 79
+swap 54 26
+swap 24 25
+reverse 39 73
+reverse 21 67
+move 23 26
+reverse 58 69
+reverse 52 65
+swap 35 21
+move 66 26
+move 60 57
+swap 45 21
+rotate 420
+swap 72 53
+rotate 286
+move 1 52
+reverse 38 42
+move 17 26
+rotate -705
+reverse 6 19
+swap 25 6
+rotate -921
+reverse 4 65
+reverse 28 42
+reverse 23 55
+swap 18 57
+move 57 25
+rotate -311
+swap 66 56
+swap 61 58
+swap 73 41
+rotate -59
+swap 39 57
+swap 54 25
+rotate 677
+rotate 297
+swap 22 72
+ETCEIPAKRKVNIDXOPSUEBRAHAPQTXHOTTRLWUQVU
+14
+move 20 38
+reverse 20 20
+move 24 26
+reverse 23 31
+rotate 427
+rotate 552
+swap 18 30
+rotate 633
+swap 32 16
+rotate -616
+swap 33 9
+rotate 145
+reverse 0 23
+move 21 30
+CPIEPTCGYLOUPSHQDRWRBVKAVFLQXOPTDLGZAZVAAVUNGBPEBCNUXKLEZVZMUQKPKOMHZTOBPFOENQXM
+2
+reverse 52 53
+move 2 44
+SZ
+23
+move 1 0
+rotate -778
+reverse 0 1
+rotate -990
+reverse 1 1
+rotate -822
+reverse 0 1
+swap 1 0
+move 1 1
+swap 0 0
+reverse 1 1
+swap 0 0
+reverse 0 1
+swap 0 1
+move 0 1
+rotate -726
+move 0 0
+rotate 983
+swap 1 1
+rotate 952
+move 0 0
+swap 1 0
+swap 1 0
+GZRHBWBR
+32
+reverse 5 6
+move 1 6
+rotate 586
+rotate -691
+move 1 1
+reverse 0 4
+rotate 298
+swap 3 5
+move 7 4
+swap 7 6
+reverse 1 3
+move 0 6
+move 7 5
+move 0 7
+swap 5 7
+rotate -360
+rotate 419
+move 5 3
+rotate -944
+reverse 0 1
+swap 0 4
+reverse 3 6
+move 5 4
+reverse 0 2
+reverse 0 1
+move 2 5
+reverse 7 7
+reverse 0 5
+swap 2 0
+rotate -33
+rotate 992
+swap 4 2
+WVCMNKXDDCRDQCWKKKDUXMJHPECZJAXVV
+31
+swap 12 13
+swap 30 24
+rotate -184
+reverse 2 18
+reverse 5 31
+swap 25 19
+swap 14 30
+move 1 3
+reverse 26 27
+move 24 8
+rotate -71
+rotate -391
+swap 20 16
+swap 15 1
+rotate 433
+rotate -7
+reverse 0 30
+move 24 28
+reverse 24 29
+move 20 10
+rotate -496
+reverse 15 25
+swap 29 4
+rotate 563
+rotate 557
+move 1 29
+rotate 981
+move 5 32
+swap 1 10
+rotate 994
+move 15 30
+XDDIQDYHPNK
+59
+reverse 7 8
+move 10 7
+move 3 8
+reverse 3 7
+move 9 1
+rotate 773
+move 3 2
+rotate 2
+move 6 5
+move 10 5
+rotate -153
+rotate 362
+reverse 0 4
+swap 7 10
+reverse 7 9
+rotate 445
+rotate -744
+rotate -51
+reverse 0 10
+reverse 8 10
+rotate -514
+move 10 4
+move 10 9
+move 6 1
+reverse 2 4
+rotate -442
+move 10 0
+rotate 962
+swap 5 5
+move 9 6
+swap 9 10
+reverse 2 7
+rotate -332
+swap 9 5
+swap 2 0
+move 4 1
+reverse 0 7
+swap 4 10
+rotate -611
+reverse 1 7
+rotate -335
+move 8 0
+move 9 9
+rotate -257
+move 5 4
+move 1 7
+reverse 3 10
+reverse 3 6
+reverse 1 6
+swap 3 9
+move 1 8
+rotate -741
+reverse 5 8
+reverse 7 10
+reverse 3 5
+rotate -504
+move 6 1
+move 8 1
+rotate -62
+XLIGRSJGHZDLBTVHPZEYHMTHEOXHECUSS
+39
+swap 3 30
+rotate -114
+swap 12 5
+reverse 0 14
+rotate -321
+rotate 981
+move 16 15
+reverse 14 23
+rotate -424
+rotate 453
+rotate -268
+rotate 727
+move 17 15
+rotate 810
+rotate 24
+reverse 13 16
+reverse 10 13
+swap 7 19
+rotate -19
+move 20 0
+rotate -391
+move 5 7
+reverse 8 17
+reverse 8 10
+reverse 8 19
+rotate 113
+reverse 6 21
+rotate -800
+swap 25 2
+rotate 963
+rotate 268
+swap 30 30
+reverse 26 30
+move 0 15
+move 0 23
+rotate 181
+reverse 1 4
+move 16 3
+rotate -300
+WQKYHAYLFRNNSJCQJMRZXNAEAOUMCYFJAKTBFWTEMWNNDWBNHLIIGYGERYDXES
+90
+reverse 6 34
+move 11 46
+move 43 3
+rotate 966
+swap 29 31
+move 11 53
+move 47 51
+rotate -21
+reverse 21 37
+reverse 20 32
+reverse 55 59
+swap 55 26
+rotate 924
+reverse 34 39
+reverse 2 6
+rotate -676
+swap 38 53
+move 30 11
+move 28 9
+rotate 813
+swap 19 58
+move 33 9
+swap 9 33
+move 24 13
+move 16 58
+rotate -394
+move 43 6
+move 22 60
+move 4 26
+rotate -918
+rotate -850
+rotate 732
+rotate -272
+swap 41 55
+reverse 5 15
+swap 59 31
+move 51 11
+swap 2 56
+reverse 3 33
+rotate -1
+rotate -149
+rotate -610
+reverse 21 22
+swap 1 34
+reverse 31 51
+swap 1 17
+reverse 52 56
+reverse 3 26
+reverse 5 10
+reverse 0 49
+rotate 225
+swap 58 16
+reverse 0 28
+move 4 11
+swap 52 24
+reverse 1 58
+swap 55 61
+rotate -239
+reverse 13 48
+move 18 48
+rotate 152
+swap 12 39
+swap 15 52
+swap 34 48
+rotate -361
+reverse 24 55
+swap 46 4
+move 25 31
+reverse 13 25
+move 17 39
+rotate -655
+reverse 23 30
+swap 38 47
+swap 40 13
+rotate 614
+move 28 59
+move 19 31
+reverse 34 45
+reverse 3 26
+reverse 7 14
+move 18 22
+rotate -86
+swap 9 38
+reverse 4 58
+rotate 4
+swap 20 31
+move 26 39
+swap 55 16
+rotate -965
+move 2 35
+XOYZZOVLJPGOVPUKGSRIAGNJFYUPTZWUXMJUUDPQBLPAVQVEDBSVDBVNERA
+91
+move 12 18
+rotate 785
+reverse 16 55
+rotate 776
+rotate -6
+reverse 37 40
+reverse 12 55
+reverse 10 37
+swap 29 46
+reverse 13 40
+move 54 27
+reverse 8 24
+move 0 30
+swap 8 23
+swap 36 44
+move 22 48
+move 21 55
+reverse 30 57
+rotate 239
+reverse 12 52
+reverse 18 23
+swap 39 4
+reverse 14 30
+swap 48 43
+rotate -326
+rotate 783
+move 15 1
+rotate -581
+reverse 3 45
+rotate 405
+reverse 15 39
+rotate 627
+move 2 53
+move 36 30
+move 7 46
+swap 48 22
+move 16 35
+move 13 31
+reverse 43 46
+rotate 321
+rotate -294
+rotate -969
+rotate -1
+rotate 415
+move 55 20
+move 33 58
+reverse 4 34
+reverse 28 31
+move 23 2
+swap 52 55
+reverse 6 22
+rotate -257
+swap 26 23
+swap 5 18
+move 45 14
+swap 40 55
+reverse 11 21
+rotate -978
+rotate 779
+move 42 41
+rotate 616
+move 34 57
+swap 51 20
+move 34 47
+move 31 17
+rotate 559
+swap 34 17
+rotate 786
+swap 28 56
+move 21 19
+move 17 26
+reverse 31 36
+rotate 590
+swap 3 20
+rotate 973
+move 11 8
+rotate -563
+rotate 351
+move 32 19
+swap 22 7
+reverse 34 54
+rotate -651
+swap 17 53
+move 35 7
+move 3 50
+rotate 419
+swap 50 42
+reverse 24 43
+rotate 41
+swap 31 43
+move 23 57
+UZOJGTLZQDUEMXGATCV
+33
+move 7 7
+rotate 888
+move 9 11
+move 5 11
+rotate -968
+rotate -422
+move 1 17
+swap 12 8
+swap 17 0
+move 7 8
+rotate -62
+rotate -626
+reverse 12 13
+reverse 1 6
+rotate -707
+swap 15 15
+move 6 15
+rotate -120
+rotate -451
+move 17 0
+swap 10 4
+swap 15 11
+move 4 18
+reverse 0 16
+rotate -701
+rotate 696
+move 11 2
+move 6 1
+swap 6 3
+swap 4 10
+rotate -746
+move 13 17
+move 9 6
+USFEVGKJPZZMAOPEKXGDCEVNDOPRGTSQFEUKLXAOCNBCDXWAPXBLLWGGGBDNFIFPGVAEQZPMNMC
+72
+move 11 50
+reverse 16 34
+reverse 51 71
+swap 66 29
+swap 68 70
+reverse 6 31
+rotate -907
+reverse 3 67
+swap 54 26
+reverse 16 18
+reverse 27 49
+rotate -948
+move 36 62
+rotate -34
+move 56 73
+reverse 16 54
+reverse 45 62
+rotate -134
+move 46 1
+reverse 4 61
+move 31 59
+swap 11 0
+reverse 8 57
+rotate 63
+reverse 19 70
+rotate 936
+swap 53 48
+swap 70 63
+swap 45 58
+move 26 22
+reverse 8 31
+rotate -333
+rotate 634
+swap 56 55
+swap 74 41
+move 62 23
+reverse 16 33
+reverse 59 63
+reverse 52 66
+rotate 787
+move 48 60
+move 69 5
+move 55 3
+swap 70 59
+move 8 37
+swap 19 38
+rotate -152
+reverse 8 24
+swap 39 7
+rotate 379
+rotate 51
+swap 28 19
+rotate -808
+rotate -259
+swap 54 19
+reverse 35 62
+rotate -258
+rotate -277
+move 16 16
+reverse 1 40
+move 37 60
+reverse 54 59
+reverse 2 60
+rotate 836
+rotate -763
+swap 28 63
+move 8 48
+move 41 1
+move 62 22
+move 72 47
+reverse 11 53
+reverse 10 20
+VVUSDATKWWWIQKVYMYWCOEGHPKOSTXCAXREKSRNIQRAWGLUMXJNSKGRWKPDIQMCOTIJUIQMSCXRJSYSHUICGGHSCOQKOWEIX
+76
+move 37 37
+move 59 11
+rotate 436
+move 44 58
+rotate -835
+reverse 62 87
+swap 2 41
+rotate -974
+reverse 15 47
+rotate -364
+rotate -898
+move 3 88
+move 62 47
+swap 12 11
+rotate 605
+rotate -957
+move 10 25
+move 48 29
+swap 33 64
+rotate -651
+rotate 919
+rotate 233
+swap 24 83
+reverse 1 32
+rotate 217
+swap 61 85
+reverse 41 90
+swap 95 29
+rotate -374
+reverse 30 38
+move 93 31
+swap 2 52
+move 42 23
+reverse 56 75
+reverse 13 34
+move 14 74
+reverse 0 60
+move 12 56
+rotate 124
+reverse 52 55
+swap 52 18
+swap 68 37
+rotate 968
+move 94 48
+rotate 233
+swap 79 36
+move 73 90
+reverse 79 92
+swap 92 57
+rotate 380
+move 41 61
+rotate 866
+move 11 37
+swap 92 55
+reverse 60 64
+reverse 19 80
+rotate -221
+rotate 759
+swap 92 79
+rotate 994
+rotate 235
+rotate 879
+swap 58 28
+rotate 631
+rotate 553
+rotate -620
+move 69 87
+rotate 323
+reverse 7 36
+move 78 22
+rotate 386
+reverse 34 80
+move 41 39
+rotate 918
+reverse 9 95
+swap 62 72
+ILWYLNNKLPVCGSJUEZSOHGZEPNCHMODFOWNRPHGCQXGCETDJQLJODZVDHNVKJDARPLJRRNSRW
+68
+swap 15 48
+reverse 49 59
+swap 60 59
+reverse 7 43
+reverse 42 61
+rotate 829
+reverse 41 49
+swap 46 61
+rotate -314
+move 48 8
+move 50 70
+move 18 54
+swap 14 15
+move 45 51
+move 64 35
+move 15 57
+rotate -364
+move 38 37
+move 35 24
+reverse 21 51
+swap 27 62
+swap 43 45
+swap 61 51
+move 38 61
+move 48 68
+swap 65 60
+rotate -147
+rotate -851
+reverse 19 43
+swap 60 56
+reverse 16 58
+move 71 53
+reverse 32 35
+move 41 69
+swap 51 8
+swap 60 22
+swap 44 6
+reverse 48 62
+reverse 48 55
+reverse 20 48
+reverse 23 46
+move 9 28
+rotate -791
+move 11 10
+swap 36 9
+reverse 16 57
+swap 24 21
+move 6 20
+move 32 38
+move 72 3
+reverse 24 41
+rotate 564
+reverse 6 35
+move 52 65
+reverse 0 19
+swap 8 36
+swap 70 48
+rotate 598
+move 2 41
+swap 62 44
+move 14 22
+rotate 818
+rotate 806
+reverse 47 57
+move 42 21
+swap 19 20
+swap 24 70
+swap 66 44
+MNTFILIZIEJYRMBQLOKYBNJHZUWLWMNCMARSFLYNBITCEZNYCAMZSQTQYCT
+78
+reverse 15 39
+swap 5 18
+reverse 9 38
+reverse 17 55
+reverse 7 49
+rotate -169
+move 27 42
+rotate -636
+rotate -982
+swap 30 36
+rotate -22
+reverse 25 25
+reverse 6 18
+move 33 19
+reverse 12 16
+reverse 14 22
+move 0 49
+move 24 0
+rotate 783
+swap 37 49
+rotate -8
+reverse 3 19
+rotate 907
+swap 48 51
+rotate -102
+rotate 764
+swap 16 10
+reverse 12 41
+rotate 896
+swap 43 32
+swap 26 10
+rotate 590
+swap 17 41
+reverse 21 53
+swap 23 42
+rotate -145
+reverse 13 24
+rotate -539
+reverse 13 26
+swap 42 38
+move 28 38
+rotate 862
+rotate 332
+swap 44 33
+swap 17 40
+swap 56 7
+reverse 12 48
+rotate 895
+swap 38 38
+move 3 58
+swap 44 55
+rotate 546
+move 0 36
+reverse 19 23
+rotate -78
+swap 25 58
+rotate -943
+reverse 10 52
+move 14 57
+rotate 456
+reverse 17 39
+rotate -103
+swap 31 42
+rotate -372
+move 44 5
+rotate -619
+move 7 9
+rotate -208
+reverse 34 35
+rotate -889
+reverse 12 32
+reverse 11 24
+swap 4 49
+rotate -254
+swap 45 23
+reverse 26 34
+swap 55 51
+move 27 5
+XXFHVANEEBIYTHQJQXLXQXZJQSLBBNPIAYVBFVCWEA
+13
+swap 5 6
+swap 37 5
+move 18 9
+swap 21 9
+move 34 6
+swap 2 33
+reverse 32 40
+reverse 10 12
+reverse 27 29
+move 26 22
+swap 3 16
+move 25 34
+move 1 12
+POSCGBQWVONUUQGZYRNRWYIPELUVKYPMKGXOEMZKDPLAN
+33
+swap 27 5
+reverse 5 29
+swap 26 10
+move 7 14
+swap 19 20
+reverse 30 40
+swap 33 19
+swap 22 21
+rotate -596
+rotate -906
+rotate 272
+reverse 21 42
+reverse 5 14
+reverse 26 28
+swap 40 16
+rotate -900
+reverse 33 34
+reverse 13 32
+rotate 704
+reverse 25 29
+swap 26 38
+swap 3 38
+swap 8 25
+swap 8 5
+rotate -383
+rotate -904
+swap 8 43
+move 39 20
+rotate -264
+move 37 29
+swap 30 18
+swap 13 12
+rotate 297
+FKJANBZTHRTARBYDYPFWVBIYFEJILREYNCZXWYJSJGPTTMTXIKXUVWOYTXQQQGBEFCKLZTYCYPJHPHHF
+20
+move 9 68
+move 60 9
+rotate -597
+rotate -359
+rotate -508
+rotate -719
+move 62 45
+reverse 77 78
+swap 47 7
+swap 47 39
+move 24 24
+move 33 28
+move 72 18
+rotate -644
+swap 30 3
+swap 64 9
+rotate -940
+reverse 11 54
+rotate 13
+swap 47 75
+QXSLFXSXEWZRFDXBAMLVHJSDIPK
+10
+swap 7 5
+rotate -869
+rotate 785
+rotate -930
+move 26 0
+rotate -427
+swap 10 2
+reverse 3 8
+move 24 11
+rotate 986
